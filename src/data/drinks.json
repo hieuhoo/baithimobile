@@ -1,0 +1,123 @@
+[{
+        "id": 0,
+        "name": "Bạc xỉu",
+        "image": "https://i0.wp.com/caphekhoanbetong.com/wp-content/uploads/2021/08/bac-xiu-ca-phe-da-giao-hang-online-30.jpg?fit=720%2C720&ssl=1",
+        "price": 25000,
+        "owner": "Tocotoco",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "là thức uống được tạo nên bởi sự kết hợp giữa sữa đăc hòa với nước nóng cùng một chút cafe"
+    },
+    {
+        "id": 1,
+        "name": "Matcha",
+        "image": "https://www.napoli.vn/Document/Images/matcha_ice_blended_master.jpg",
+        "price": 30000,
+        "owner": "Tocotoco",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Matcha là bột được nghiền từ búp non của cây trà xanh Tencha – giống trà đặc trưng của Nhật Bản."
+    },
+    {
+        "id": 2,
+        "name": "Hồng trà cam xả",
+        "image": "https://cdn.huongnghiepaau.com/wp-content/uploads/2017/07/su-dung-tra-oolong-pha-tra-dao.jpg",
+        "price": 49000,
+        "owner": "Ding Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Vị thanh ngọt của đào, vị chua dịu của Cam Vàng nguyên vỏ, vị chát của trà đen tươi được ủ mới mỗi 4 tiếng, cùng hương thơm nồng đặc trưng của sả chính là điểm sáng làm nên sức hấp dẫn của thức uống này."
+
+
+    },
+    {
+        "id": 3,
+        "name": "Trà Sữa Bạc Hà",
+        "image": "https://jarvis.vn/wp-content/uploads/2019/05/cach-pha-che-tra-sua-bac-ha.jpg",
+        "price": 30000,
+        "owner": "Fly Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "Trà sữa bạc hà là một trong số đó, thậm chí đồ uống này còn xuất hiện trong menu của hầu hết các thương hiệu trà sữa nổi tiếng và được khách hàng gọi thường xuyên. "
+    },
+    {
+        "id": 4,
+        "name": "Sữa chua đánh đá",
+        "image": "https://cdn.huongnghiepaau.com/wp-content/uploads/2020/04/sua-chua-danh-da.jpg",
+        "price": 20000,
+        "owner": "Ice Tea",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "là loại thức uống phù hợp với nhiều người khi là sự kết hợp giữa sữa chua xay nhuyễn cùng đá vụn"
+    },
+    {
+        "id": 5,
+        "name": "Cafe trứng  ",
+        "image": "https://blog.dktcdn.net/files/cafe-trung-2.jpg",
+        "price": 30000,
+        "owner": "Highland",
+        "ice": [
+            "0%",
+            "30%",
+            "50%",
+            "70%"
+
+        ],
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "description": "là loại thức uống có nguồn gôc từ Việt Nam được làm từ cà phê với trứng gà (có nhỏ thêm mật ong) và sữa ông thọ có đường"
+    }
+]
